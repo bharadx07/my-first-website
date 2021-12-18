@@ -6,6 +6,6 @@ My first ever website, memorialized on GitHub! I created this in the summer of 2
 ## Credits
 Created by [Bharadwaj Duggaraju](https://bharadwaj.duggaraju.com)
 
-Freecodecamp - Tutorial for this project.
+Udemy - Tutorial for this project.
 
 Github.dev - Online editor.
