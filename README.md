@@ -8,4 +8,4 @@ Created by [Bharadwaj Duggaraju](https://bharadwaj.duggaraju.com)
 
 Udemy - Tutorial for this project.
 
-Github.dev - Online editor.
+https://github.dev - Online editor.
